@@ -1,2 +1,2 @@
-this is a main branch example file
-new branch commit
+
+this is conflict main branch commit
