@@ -1,2 +1,5 @@
+this is a main branch example file
+new branch commit
+adasdas
 
 this is conflict main branch commit
